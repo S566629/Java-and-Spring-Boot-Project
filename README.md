@@ -1,4 +1,4 @@
-# **PatternsProject**
+# **Java-SpringBoot Project**
 
 ## **Overview**
 This project is built using **Java** with **Spring Boot** and **MVC Controller** integration. The goal is to demonstrate a fully functional application with deployment on **Render** using **Docker**. The application utilizes **PostgreSQL** as its database and showcases all essential steps, including development, configuration, and deployment.
